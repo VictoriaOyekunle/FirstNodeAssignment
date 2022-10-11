@@ -1,0 +1,59 @@
+                            /* signUp */
+
+body{
+    /* background:linear-gradient(270deg,rgb(15, 15, 66),rgba(183, 28, 28, 0.355)); */
+    height: 100vh;
+    background-color: rgba(255, 187, 103, 0.829);
+}
+.bgColor{
+    background-color: rgb(255, 148, 17);
+}
+.fontColor {
+    color: rgb(255, 148, 17);
+}
+.bigDiv{
+    background-color: rgb(255, 148, 17);
+    margin-top: 10%;
+    padding-top: 180px;
+    padding-bottom: 100px;
+    color: white;
+    font-size: 1.6em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 25px;
+    /* background: linear-gradient(50deg, rgba(49, 240, 84, 0.989), blue,red); */
+}
+.signDiv {
+    background-color: rgb(255, 253, 253);
+    margin-top: 10%;
+    font-size: 1.1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+                            /* signIn */
+.loginDiv{
+    margin-top: 150px;
+    width: 40vw;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em;
+}
+
+                            /* dashboard */
+.list{
+    padding-top: 3%;
+    /* padding-top: 180px; */
+    /* padding-bottom: 100px; */
+    color: white;
+    font-size: 1.6em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 25px;
+}
+table {
+    background-color: rgba(255, 148, 17, 0.415);
+}
+/* .del{
+    background-color: rgb(255, 148, 17);
+    color: white;
+} */
